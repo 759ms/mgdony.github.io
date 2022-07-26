@@ -1043,7 +1043,7 @@ a {
 .cid-sFzxmVl7J6 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/2021-10-30-20.00.25.png");
 }
 .cid-sFzxmVl7J6 .row {
   flex-direction: row-reverse;
@@ -1069,12 +1069,15 @@ a {
 }
 .cid-sFzxmVl7J6 .mbr-text,
 .cid-sFzxmVl7J6 .mbr-section-btn {
-  color: #353535;
+  color: #fafafa;
+}
+.cid-sFzxmVl7J6 .mbr-section-title {
+  color: #fafafa;
 }
 .cid-sFzyUE9AaP {
   padding-top: 8rem;
   padding-bottom: 9rem;
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/2021-10-30-20.00.49.png");
 }
 @media (min-width: 1500px) {
   .cid-sFzyUE9AaP .container {
@@ -1095,18 +1098,18 @@ a {
 }
 .cid-sFzyUE9AaP .card-title,
 .cid-sFzyUE9AaP .iconfont-wrapper {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sFzyUE9AaP .card-text {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sFzyUE9AaP .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sFzErVWEaH {
   padding-top: 6rem;
   padding-bottom: 8rem;
-  background: #ffffff;
+  background-image: url("../../../assets/images/2021-10-30-19.59.17.png");
 }
 .cid-sFzErVWEaH .team-card {
   margin-bottom: 2rem;
@@ -1168,12 +1171,12 @@ a {
   color: #000000;
 }
 .cid-sFzErVWEaH .mbr-section-title1 {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-tcuEjJcHsS {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/2021-10-30-19.59.31.png");
 }
 .cid-tcuEjJcHsS .mbr-fallback-image.disabled {
   display: none;
@@ -1187,10 +1190,16 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-tcuEjJcHsS .mbr-section-title {
+  color: #fafafa;
+}
+.cid-tcuEjJcHsS .mbr-section-subtitle {
+  color: #fafafa;
+}
 .cid-tcuEJBOtE2 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/regulamin-mc-1.png");
 }
 .cid-tcuEJBOtE2 .mbr-fallback-image.disabled {
   display: none;
@@ -1203,6 +1212,12 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tcuEJBOtE2 .mbr-section-title {
+  color: #353535;
+}
+.cid-tcuEJBOtE2 .mbr-section-subtitle {
+  color: #353535;
 }
 .cid-tcuHsEJSO9 .navbar-dropdown {
   position: relative !important;
